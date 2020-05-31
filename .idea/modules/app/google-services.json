@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "904101290989",
+    "firebase_url": "https://kotlinmessenger-d67a1.firebaseio.com",
+    "project_id": "kotlinmessenger-d67a1",
+    "storage_bucket": "kotlinmessenger-d67a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904101290989:android:f4da8493609d388d2cfde4",
+        "android_client_info": {
+          "package_name": "com.example.kotlinmessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904101290989-meaf5bncam7tmlmhlv9lo2frr4nejp2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTdwTxhESiSFZkHBKjGeVvs2F7xtp1j3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904101290989-meaf5bncam7tmlmhlv9lo2frr4nejp2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904101290989:android:cc6fd3bcb00a14f42cfde4",
+        "android_client_info": {
+          "package_name": "com.example.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904101290989-5jhhgcgqngkuniqdqlblg6daqpa86c3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinmessenger",
+            "certificate_hash": "20ab795ddeb3723d067f88770cd31fe97c91a357"
+          }
+        },
+        {
+          "client_id": "904101290989-meaf5bncam7tmlmhlv9lo2frr4nejp2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTdwTxhESiSFZkHBKjGeVvs2F7xtp1j3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904101290989-meaf5bncam7tmlmhlv9lo2frr4nejp2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
