@@ -5,11 +5,13 @@
     <item
         android:id="@+id/menu_new_message"
         android:title="New Message"
+        android:icon="@drawable/ic_baseline_note_add_24"
         app:showAsAction="ifRoom" />
 
     <item
         android:id="@+id/menu_sign_out"
         android:title="Sign Out"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
         app:showAsAction="ifRoom" />
 
 </menu>

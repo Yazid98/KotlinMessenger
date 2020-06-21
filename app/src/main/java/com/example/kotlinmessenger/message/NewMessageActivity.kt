@@ -18,6 +18,12 @@ import kotlinx.android.synthetic.main.activity_new_message.*
 import kotlinx.android.synthetic.main.user_row_new_message.view.*
 
 class NewMessageActivity : AppCompatActivity() {
+
+
+    companion object {
+        val USER_KEY = "USER_KEY"
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_new_message)
@@ -26,10 +32,6 @@ class NewMessageActivity : AppCompatActivity() {
 
         fetchUsers()
 
-    }
-
-    companion object {
-        val USER_KEY = "USER_KEY"
     }
 
     private fun fetchUsers() {
@@ -55,7 +57,6 @@ class NewMessageActivity : AppCompatActivity() {
                 }
                 recyclerview_newmessage.adapter = adapter
             }
-
             override fun onCancelled(p0: DatabaseError) {
             }
         })
