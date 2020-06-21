@@ -4,6 +4,7 @@ Dès qu'une personne s'inscrit, elle peut parler avec toutes les autres personne
 
 <div style= "display: flex;">
 <p style="flex: 33.33%;
+   width:100%;
   padding: 5px;">
   <img src="https://github.com/Yazid98/KotlinMessenger/blob/master/Images/1.png?raw=true" title="Text">
 </p>
